@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;AjBSGYpD#_zxOomvg6xc6MTnb6ibDJKVMMXqDVyHAgQLVSSBauTM' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;g3Q3nZQB#jEShXrgkyiZhvYuQAWhOrxLuoHb5_vxYxtkDa0V6oIk' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://movies4u23_user:djxY0oosn8RrCvYNoWCRTgGXTBtlVkHK@dpg-ckbhvgmct0pc73dvda1g-a.frankfurt-postgres.render.com/movies4u23'
